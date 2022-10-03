@@ -46,4 +46,4 @@ title: Disc Golf Plastics
 * **Soft Premium Base** - A softer premium base for those that like a gummier and softer base plastic, usually for putting.
 * **Base** - This is the most base plastic, usually very grippy and great for putters or a good cheap disc. They beat in real fast, and show wear after a few throws.
 
-This is a combination of work from daegalus' disc golf plastic matrix and some updates I have made to be more up to date with current plastic offerings. I will try to keep up with updates as they come up.
+This is a recreation of work from daegalus' disc golf plastic matrix and some updates I have made to be more up to date with current plastic offerings. I will try to keep up with updates as they come up.
