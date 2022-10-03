@@ -2,9 +2,3 @@ theme: jekyll-theme-cayman
 show_downloads: false
 name: ""
 title: null
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
