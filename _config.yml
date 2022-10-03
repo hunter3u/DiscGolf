@@ -1,5 +1,5 @@
 title: Disc Golf Plastics
-
+theme: minima
 defaults:
   values:
     layout: default
