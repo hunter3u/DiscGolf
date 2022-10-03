@@ -1,2 +1,6 @@
 title: Disc Golf Plastics
 theme: jekyll-theme-cayman
+
+defaults:
+  values:
+    layout: default
