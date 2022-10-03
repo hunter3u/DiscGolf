@@ -28,4 +28,21 @@ title: Disc Golf Plastics
 | Though Space Athletics   | Aura                  |               |           | Ethereal                     |               |              | Ethos     |               |                |                         |                              |                   |             |            |
 | Viking Discs             | Armor                 |               |           |                              |               |              | Storm     | Air           |                |                         |                              |                   |             | Ground     |
 
+** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it. Its a Proton/Plasma blend.
+
+Descriptions
+Premium - Usually the manufacturers durable and highest quality discs. Usually true to numbers
+Premium Light - Same as Premium, but usually infused with air bubbles to make them super light. Usually true to numbers
+Recycled - Uses left over byproduct from Premium and Durable plastics to make a new type of plastic. Just as durable.
+Premium Gummy - A variation of the premium plastic that is softer and gummier and can handle the cold weather. Great for winter, usually slight understable from the numbers.
+Super Durable - Usually a Durable and Premium mix, resulting in a super durable disc that might have qualities of both discs mixed together. Sometimes opaque, others more milky translucent.
+Glow - Usually the durable or premium plastic variation that has glow components added to make the disc glow in the dark. Usually a bit more overstable than Durable plastic.
+Durable - A durable plastic that can take a beating, usually the most durable of the plastics. Flies a bit more overstable and tends to be translucent or a bit see-through
+Durable Light - Same as the durable plastic but infused with air bubbles to make it lighter.
+Pro - I don't really throw it, but its a plastic mix tougher than base plastic, but not quite as the premium and durable plastics. Has a bit of grippyness to it.
+Hard Premium Base - Usually the premium base plastic made firmer for those that prefer a firmer disc. A bit grippy
+Premium Base - A disc that is slightly more durable than the cheap base plastic. Still relatively cheap plastic, but lasts a bit longer and takes a bit more beating. Usually preferred for putting. A bit grippy
+Soft Premium Base - A softer premium base for those that like a gummier and softer base plastic, usually for putting.
+Base - This is the most base plastic, usually very grippy and great for putters or a good cheap disc. They beat in real fast, and show wear after a few throws.
+
 This is a combination of work from daegalus' disc golf plastic matrix and some updates I have made to be more up to date with current plastic offerings. I will try to keep up with updates as they come up.
