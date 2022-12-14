@@ -20,6 +20,7 @@
 | Mint                     | Apex                  |               |           | Sublime                      |               | Nocturnal    | Eternal   |               |                |                         | Royal                        |                   |             |            |
 | Though Space Athletics   | Aura                  |               |           | Ethereal                     |               |              | Ethos     |               |                |                         |                              |                   |             |            |
 | Viking Discs             | Armor                 |               |           |                              |               |              | Storm     | Air           |                |                         |                              |                   |             | Ground     |
+| Lone Star Discs          | Alpha                 |               | Lima      | Bravo                        |               | Glow (Bravo) |           |               |                |                         |                              |                   |             | Victor     |
 
 ** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it. Its a Proton/Plasma blend.
 
